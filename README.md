@@ -75,7 +75,7 @@ See `LICENSE_POLICY.md` for scope examples.
 **Version:** Waveframe v4.0 (archived)  
 
 **Concept DOI (permanent citation):**  
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16872199.svg)](https://doi.org/10.5281/zenodo.16872199)  
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17041850.svg)](https://doi.org/10.5281/zenodo.17041850)  
 
 For reproducibility, always cite the **concept DOI** above.  
 This ensures future readers resolve to the correct archived version.  

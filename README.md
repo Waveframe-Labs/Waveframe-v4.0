@@ -96,3 +96,12 @@ If you use this work, please cite it as:
   doi          = {10.5281/zenodo.16872199},
   url          = {https://doi.org/10.5281/zenodo.16872199}
 }
+```
+
+---
+
+---  
+
+<p align="center">
+  <sub>© 2025 Waveframe Labs · Independent Open-Science Research Entity</sub>
+</p>  

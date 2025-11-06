@@ -1,4 +1,5 @@
-# Waveframe v4.0: AI-Orchestrated Proof of Concept in Cosmology
+# Waveframe v4.0  
+### AI-Orchestrated Cosmology Case Study Using AWO Framework
 
 [![License: Apache-2.0](https://img.shields.io/badge/license-Apache%202.0-blue.svg)](./LICENSE)
 [![License: CC BY-NC 4.0](https://img.shields.io/badge/license-CC%20BY--NC%204.0-lightgrey.svg)](./LICENSE-NC.md)
@@ -93,8 +94,8 @@ If you use this work, please cite it as:
   year         = {2025},
   publisher    = {Zenodo},
   version      = {v4.0},
-  doi          = {10.5281/zenodo.16872199},
-  url          = {https://doi.org/10.5281/zenodo.16872199}
+  doi          = {10.5281/zenodo.17041850},  
+  url          = {https://doi.org/10.5281/zenodo.17041850}
 }
 ```
 

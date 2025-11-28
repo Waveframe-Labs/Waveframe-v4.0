@@ -105,7 +105,14 @@ If you use this work, please cite it as:
 ---
 
 ---  
+---
 
 <p align="center">
-  <sub>© 2025 Waveframe Labs · Independent Open-Science Research Entity</sub>
-</p>  
+  <sub><strong>© 2025 Waveframe Labs</strong> · Independent Open-Science Research Entity · 
+  <a href="https://orcid.org/0009-0006-6043-9295">ORCID: 0009-0006-6043-9295</a> · 
+  <a href="https://doi.org/10.5281/zenodo.16872199">DOI: 10.5281/zenodo.16872199</a></sub>
+</p>
+
+<p align="center">
+  <sub>Governed under the <a href="https://github.com/Waveframe-Labs/Aurora-Research-Initiative">Aurora Research Initiative (ARI)</a> · Constructed using the <a href="https://github.com/Waveframe-Labs/Aurora-Workflow-Orchestration">AWO methodology</a></sub>
+</p>

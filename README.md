@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="Figures/WF_v4_banner.png" alt="Waveframe v4.0 Banner" width="85%">
+</p>
+
 # Waveframe v4.0  
 ### AI-Orchestrated Cosmology Case Study Using AWO Framework
 
@@ -6,9 +10,6 @@
 [![License: Apache-2.0](https://img.shields.io/badge/license-Apache%202.0-blue.svg)](./LICENSE)
 [![License: CC BY-NC 4.0](https://img.shields.io/badge/license-CC%20BY--NC%204.0-lightgrey.svg)](./LICENSE-NC.md)
 [![CITATION.cff](https://img.shields.io/badge/cite-CITATION.cff-brightgreen.svg)](./CITATION.cff)
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Waveframe-Labs/Waveframe-v4.0/991ff907d3f4ce4cb4ddeabe323f017ed0ef2f24/Figures/waveframe_banner.PNG" width="90%">
-</p>
 
 ---
 
